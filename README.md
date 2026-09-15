@@ -6,7 +6,7 @@ Algoritma pengolahan piksel dibuat manual. `PIL` hanya digunakan untuk membaca g
 
 ## Menjalankan Notebook
 
-1. Buka `image_enhancement.ipynb` di VS Code atau Jupyter Notebook.
+1. Buka `CVL_Assignment01.ipynb` di VS Code atau Jupyter Notebook.
 2. Pastikan kernel Python tersedia.
 3. Jalankan cell secara berurutan.
 4. Setiap cell teknik memiliki path gambar sendiri yang dapat diubah langsung.
